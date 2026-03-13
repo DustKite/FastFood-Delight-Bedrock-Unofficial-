@@ -1,0 +1,27 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "fastfooddelight:fries_bowl"
+        },
+        "key": {
+            "#": {
+                "item": "minecraft:paper"
+            },
+            "A": {
+                "item": "minecraft:red_dye"
+            }
+        },
+        "pattern": [
+            "#A#",
+            " # ",
+            "   "
+        ],
+        "result": {
+            "item": "fastfooddelight:fries_bowl"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,90 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "fastfooddelight:apple_sauce": {
+      "textures": "textures/items/apple_sauce"
+    },
+    "fastfooddelight:beet_fries": {
+      "textures": "textures/items/beet_fries"
+    },
+    "fastfooddelight:carrot_fries": {
+      "textures": "textures/items/carrot_fries"
+    },
+    "fastfooddelight:sweet_berry_ice_cream": {
+      "textures": "textures/items/sweet_berry_ice_cream"
+    },
+    "fastfooddelight:salmon_sandwich": {
+      "textures": "textures/items/salmon_sandwich"
+    },
+    "fastfooddelight:rabbit_sandwich": {
+      "textures": "textures/items/rabbit_sandwich"
+    },
+    "fastfooddelight:pork_sandwich": {
+      "textures": "textures/items/pork_sandwich"
+    },
+    "fastfooddelight:orange_soda": {
+      "textures": "textures/items/orange_soda"
+    },
+    "fastfooddelight:lemon_soda": {
+      "textures": "textures/items/lemon_soda"
+    },
+    "fastfooddelight:iced_tea": {
+      "textures": "textures/items/iced_tea"
+    },
+    "fastfooddelight:cheese_wrap": {
+      "textures": "textures/items/cheese_wrap"
+    },
+    "fastfooddelight:cheese": {
+      "textures": "textures/items/cheese_ffd"
+    },
+    "fastfooddelight:cheeseburger": {
+      "textures": "textures/items/cheeseburger"
+    },
+    "fastfooddelight:chicken_cheese_sandwich": {
+      "textures": "textures/items/chicken_cheese_sandwich"
+    },
+    "fastfooddelight:egg_fast_food_waiter": {
+      "textures": "textures/items/egg_fast_food_waiter"
+    },
+    "fastfooddelight:chicken_nuggets": {
+      "textures": "textures/items/chicken_nuggets"
+    },
+    "fastfooddelight:chicken_wrap": {
+      "textures": "textures/items/chicken_wrap"
+    },
+    "fastfooddelight:chocolate_ice_cream": {
+      "textures": "textures/items/chocolate_ice_cream"
+    },
+    "fastfooddelight:cod_sandwich": {
+      "textures": "textures/items/cod_sandwich"
+    },
+    "fastfooddelight:cola_soda": {
+      "textures": "textures/items/cola_soda"
+    },
+    "fastfooddelight:creaming_soda": {
+      "textures": "textures/items/creaming_soda"
+    },
+    "fastfooddelight:croque_monsieur": {
+      "textures": "textures/items/croque_monsieur"
+    },
+    "fastfooddelight:french_fries": {
+      "textures": "textures/items/french_fries"
+    },
+    "fastfooddelight:fried_onions": {
+      "textures": "textures/items/fried_onions"
+    },
+    "fastfooddelight:fries_bowl": {
+      "textures": "textures/items/fries_bowl"
+    },
+    "fastfooddelight:fruit_ice_cream": {
+      "textures": "textures/items/fruit_ice_cream"
+    },
+    "fastfooddelight:bucket_cheese": {
+      "textures": "textures/items/bucket_cheese"
+    },
+    "fastfooddelight:ice_cream": {
+      "textures": "textures/items/ice_cream"
+    }
+  }
+}

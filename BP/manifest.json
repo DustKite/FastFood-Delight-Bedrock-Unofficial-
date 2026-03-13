@@ -1,0 +1,62 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "pack.description",
+    "name": "pack.name",
+    "uuid": "5287c3cc-2d06-4c50-a952-74198e7c5dbf",
+    "version": [
+      5,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      26,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "8fa8aafc-19d4-4ee9-9a94-b83b8604f32e",
+      "version": [
+        5,
+        0,
+        1
+      ]
+    },
+    {
+      "description": "FFDScript",
+      "type": "script",
+      "language": "javascript",
+      "uuid": "2117b584-0975-4f78-b2ed-033cd38a4f9e",
+      "version": [
+        5,
+        0,
+        1
+      ],
+      "entry": "scripts/main.js"
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Dust_Kite"
+    ],
+    "license": "GPLv3",
+    "product_type": "addon"
+  },
+  "dependencies": [
+    {
+      "uuid": "a4a2c73f-0d1f-4f52-b049-3702bb91b335",
+      "version": [
+        5,
+        0,
+        1
+      ]
+    },
+    {
+      "module_name": "@minecraft/server",
+      "version": "2.0.0"
+    }
+  ]
+}

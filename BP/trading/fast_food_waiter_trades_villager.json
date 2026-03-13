@@ -1,0 +1,581 @@
+{
+  "tiers": [
+    {
+      "total_exp_required": 0,
+      "groups": [
+        {
+          "num_to_select": 2,
+          "trades": [
+            {
+              "max_uses": 10,
+              "wants": [
+                {
+                  "item": "minecraft:gold_nugget",
+                  "quantity": 3,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "fastfooddelight:french_fries"
+                }
+              ],
+              "trader_exp": 5,
+              "reward_exp": true
+            },
+            {
+              "max_uses": 10,
+              "wants": [
+                {
+                  "item": "minecraft:gold_nugget",
+                  "quantity": 3,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "fastfooddelight:beet_fries"
+                }
+              ],
+              "trader_exp": 5,
+              "reward_exp": true
+            },
+            {
+              "max_uses": 10,
+              "wants": [
+                {
+                  "item": "minecraft:gold_nugget",
+                  "quantity": 3,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "fastfooddelight:carrot_fries"
+                }
+              ],
+              "trader_exp": 5,
+              "reward_exp": true
+            },
+            {
+              "max_uses": 10,
+              "wants": [
+                {
+                  "item": "minecraft:gold_nugget",
+                  "quantity": 3,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "farmersdelight:mixed_salad"
+                }
+              ],
+              "trader_exp": 5,
+              "reward_exp": true
+            },
+            {
+              "max_uses": 10,
+              "wants": [
+                {
+                  "item": "minecraft:gold_nugget",
+                  "quantity": 3,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "fastfooddelight:fried_onions"
+                }
+              ],
+              "trader_exp": 5,
+              "reward_exp": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "total_exp_required": 10,
+      "groups": [
+        {
+          "num_to_select": 2,
+          "trades": [
+            {
+              "max_uses": 10,
+              "wants": [
+                {
+                  "item": "minecraft:gold_nugget",
+                  "quantity": 4,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "fastfooddelight:cod_sandwich"
+                }
+              ],
+              "trader_exp": 5,
+              "reward_exp": true
+            },
+            {
+              "max_uses": 10,
+              "wants": [
+                {
+                  "item": "minecraft:gold_nugget",
+                  "quantity": 4,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "fastfooddelight:salmon_sandwich"
+                }
+              ],
+              "trader_exp": 5,
+              "reward_exp": true
+            },
+            {
+              "max_uses": 10,
+              "wants": [
+                {
+                  "item": "minecraft:gold_nugget",
+                  "quantity": 5,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "fastfooddelight:cheese_wrap"
+                }
+              ],
+              "trader_exp": 5,
+              "reward_exp": true
+            },
+            {
+              "max_uses": 10,
+              "wants": [
+                {
+                  "item": "minecraft:gold_nugget",
+                  "quantity": 5,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "fastfooddelight:chicken_wrap"
+                }
+              ],
+              "trader_exp": 5,
+              "reward_exp": true
+            },
+            {
+              "max_uses": 10,
+              "wants": [
+                {
+                  "item": "minecraft:gold_nugget",
+                  "quantity": 5,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "farmersdelight:mutton_wrap"
+                }
+              ],
+              "trader_exp": 5,
+              "reward_exp": true
+            },
+            {
+              "max_uses": 10,
+              "wants": [
+                {
+                  "item": "minecraft:gold_nugget",
+                  "quantity": 5,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "fastfooddelight:rabbit_sandwich"
+                }
+              ],
+              "trader_exp": 5,
+              "reward_exp": true
+            },
+            {
+              "max_uses": 10,
+              "wants": [
+                {
+                  "item": "minecraft:gold_nugget",
+                  "quantity": 5,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "farmersdelight:egg_sandwich"
+                }
+              ],
+              "trader_exp": 5,
+              "reward_exp": true
+            },
+            {
+              "max_uses": 10,
+              "wants": [
+                {
+                  "item": "minecraft:gold_nugget",
+                  "quantity": 5,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "farmersdelight:chicken_sandwich"
+                }
+              ],
+              "trader_exp": 5,
+              "reward_exp": true
+            },
+            {
+              "max_uses": 10,
+              "wants": [
+                {
+                  "item": "minecraft:gold_nugget",
+                  "quantity": 5,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "farmersdelight:bacon_sandwich"
+                }
+              ],
+              "trader_exp": 5,
+              "reward_exp": true
+            },
+            {
+              "max_uses": 10,
+              "wants": [
+                {
+                  "item": "minecraft:gold_nugget",
+                  "quantity": 3,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "fastfooddelight:chicken_nuggets"
+                }
+              ],
+              "trader_exp": 5,
+              "reward_exp": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "total_exp_required": 70,
+      "groups": [
+        {
+          "num_to_select": 2,
+          "trades": [
+            {
+              "max_uses": 10,
+              "wants": [
+                {
+                  "item": "minecraft:gold_nugget",
+                  "quantity": 6,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "fastfooddelight:pork_sandwich"
+                }
+              ],
+              "trader_exp": 5,
+              "reward_exp": true
+            },
+            {
+              "max_uses": 10,
+              "wants": [
+                {
+                  "item": "minecraft:gold_nugget",
+                  "quantity": 7,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "fastfooddelight:cheeseburger"
+                }
+              ],
+              "trader_exp": 5,
+              "reward_exp": true
+            },
+            {
+              "max_uses": 10,
+              "wants": [
+                {
+                  "item": "minecraft:gold_nugget",
+                  "quantity": 7,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "farmersdelight:hamburger"
+                }
+              ],
+              "trader_exp": 5,
+              "reward_exp": true
+            },
+            {
+              "max_uses": 10,
+              "wants": [
+                {
+                  "item": "minecraft:gold_nugget",
+                  "quantity": 7,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "fastfooddelight:chicken_cheese_sandwich"
+                }
+              ],
+              "trader_exp": 5,
+              "reward_exp": true
+            },
+            {
+              "max_uses": 10,
+              "wants": [
+                {
+                  "item": "minecraft:gold_nugget",
+                  "quantity": 6,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "fastfooddelight:croque_monsieur"
+                }
+              ],
+              "trader_exp": 5,
+              "reward_exp": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "total_exp_required": 150,
+      "groups": [
+        {
+          "num_to_select": 2,
+          "trades": [
+            {
+              "max_uses": 10,
+              "wants": [
+                {
+                  "item": "minecraft:gold_nugget",
+                  "quantity": 2,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "fastfooddelight:cola_soda"
+                }
+              ],
+              "trader_exp": 5,
+              "reward_exp": true
+            },
+            {
+              "max_uses": 10,
+              "wants": [
+                {
+                  "item": "minecraft:gold_nugget",
+                  "quantity": 2,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "fastfooddelight:orange_soda"
+                }
+              ],
+              "trader_exp": 5,
+              "reward_exp": true
+            },
+            {
+              "max_uses": 10,
+              "wants": [
+                {
+                  "item": "minecraft:gold_nugget",
+                  "quantity": 2,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "fastfooddelight:lemon_soda"
+                }
+              ],
+              "trader_exp": 5,
+              "reward_exp": true
+            },
+            {
+              "max_uses": 10,
+              "wants": [
+                {
+                  "item": "minecraft:gold_nugget",
+                  "quantity": 2,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "fastfooddelight:creaming_soda"
+                }
+              ],
+              "trader_exp": 5,
+              "reward_exp": true
+            },
+            {
+              "max_uses": 10,
+              "wants": [
+                {
+                  "item": "minecraft:gold_nugget",
+                  "quantity": 2,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "fastfooddelight:iced_tea"
+                }
+              ],
+              "trader_exp": 5,
+              "reward_exp": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "total_exp_required": 250,
+      "groups": [
+        {
+          "num_to_select": 2,
+          "trades": [
+            {
+              "max_uses": 10,
+              "wants": [
+                {
+                  "item": "minecraft:gold_nugget",
+                  "quantity": 3,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "fastfooddelight:ice_cream"
+                }
+              ],
+              "trader_exp": 5,
+              "reward_exp": true
+            },
+            {
+              "max_uses": 10,
+              "wants": [
+                {
+                  "item": "minecraft:gold_nugget",
+                  "quantity": 4,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "fastfooddelight:chocolate_ice_cream"
+                }
+              ],
+              "trader_exp": 5,
+              "reward_exp": true
+            },
+            {
+              "max_uses": 10,
+              "wants": [
+                {
+                  "item": "minecraft:gold_nugget",
+                  "quantity": 4,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "fastfooddelight:sweet_berry_ice_cream"
+                }
+              ],
+              "trader_exp": 5,
+              "reward_exp": true
+            },
+            {
+              "max_uses": 10,
+              "wants": [
+                {
+                  "item": "minecraft:gold_nugget",
+                  "quantity": 4,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "fastfooddelight:fruit_ice_cream"
+                }
+              ],
+              "trader_exp": 5,
+              "reward_exp": true
+            },
+            {
+              "max_uses": 10,
+              "wants": [
+                {
+                  "item": "minecraft:gold_nugget",
+                  "quantity": 3,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "fastfooddelight:apple_sauce"
+                }
+              ],
+              "trader_exp": 5,
+              "reward_exp": true
+            },
+            {
+              "max_uses": 10,
+              "wants": [
+                {
+                  "item": "minecraft:gold_nugget",
+                  "quantity": 3,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "farmersdelight:fruit_salad"
+                }
+              ],
+              "trader_exp": 5,
+              "reward_exp": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

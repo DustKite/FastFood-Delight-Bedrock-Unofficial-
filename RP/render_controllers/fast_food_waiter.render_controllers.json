@@ -1,0 +1,29 @@
+{
+  "format_version": "1.8.0",
+  "render_controllers": {
+    "controller.render.fast_food_waiter": {
+      "geometry": "Geometry.default",
+      "materials": [
+        {
+          "*": "Material.default"
+        }
+      ],
+      "textures": [
+        "array.textures[query.mark_variant]"
+      ],
+      "arrays": {
+        "textures": {
+          "array.textures": [
+            "Texture.default",
+            "Texture.desert",
+            "Texture.jungle",
+            "Texture.savanna",
+            "Texture.snow",
+            "Texture.swamp",
+            "Texture.taiga"
+          ]
+        }
+      }
+    }
+  }
+}

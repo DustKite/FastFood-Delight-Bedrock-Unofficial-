@@ -1,0 +1,28 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "fastfooddelight:chicken_wrap"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:bread"
+      },
+      {
+        "item": "minecraft:cooked_chicken"
+      },
+      {
+        "tag": "farmersdelight:is_cabbage"
+      },
+      {
+        "tag": "farmersdelight:is_onion"
+      }
+    ],
+    "result": {
+      "item": "fastfooddelight:chicken_wrap"
+    }
+  }
+}

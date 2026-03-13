@@ -1,0 +1,16 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "fastfooddelight:chicken_nuggets"
+    },
+    "tags": [
+      "furnace",
+      "campfire",
+      "smoker",
+      "soul_campfire"
+    ],
+    "input": "farmersdelight:cooked_chicken_cuts",
+    "output": "fastfooddelight:chicken_nuggets"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "fastfooddelight:chocolate_ice_cream"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+            {
+                "item": "minecraft:cocoa_beans"
+            },
+            {
+                "item": "minecraft:cocoa_beans"
+            },
+            {
+                "item": "minecraft:cocoa_beans"
+            },
+            {
+                "item": "fastfooddelight:ice_cream"
+            }
+    ],
+    "result": {
+      "item": "fastfooddelight:chocolate_ice_cream"
+    }
+  }
+}

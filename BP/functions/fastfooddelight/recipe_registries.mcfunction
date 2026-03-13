@@ -1,0 +1,1 @@
+scoreboard objectives add farmersdelight_fastfooddelight_cook dummy

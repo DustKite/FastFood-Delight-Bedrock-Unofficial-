@@ -1,0 +1,25 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "fastfooddelight:croque_monsieur"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:bread"
+      },
+      {
+        "tag": "farmersdelight:cheese_slices"
+      },
+      {
+        "item": "farmersdelight:cooked_bacon"
+      }
+    ],
+    "result": {
+      "item": "fastfooddelight:croque_monsieur"
+    }
+  }
+}

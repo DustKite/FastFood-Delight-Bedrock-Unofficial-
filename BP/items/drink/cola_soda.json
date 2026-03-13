@@ -1,0 +1,32 @@
+{
+  "format_version": "1.21.40",
+  "minecraft:item": {
+    "components": {
+      "minecraft:food": {
+        "can_always_eat": true,
+        "using_converts_to": "glass_bottle"
+      },
+      "minecraft:max_stack_size": 16,
+      "minecraft:display_name": {
+        "value": "%item.fastfooddelight.cola_soda\n%translation.key.cola_sodadescription"
+      },
+      "minecraft:icon": {
+        "textures": {
+          "default": "fastfooddelight:cola_soda"
+        }
+      },
+      "minecraft:use_animation": "drink",
+      "minecraft:use_modifiers": {
+        "use_duration": 1.6,
+        "movement_modifier": 0.4
+      }
+    },
+    "description": {
+      "identifier": "fastfooddelight:cola_soda",
+      "menu_category": {
+        "category": "equipment",
+        "group": "farmersdelight:itemGroup.name.miscFood"
+      }
+    }
+  }
+}

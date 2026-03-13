@@ -1,0 +1,30 @@
+{
+  "format_version": "1.21.40",
+  "minecraft:item": {
+    "components": {
+      "minecraft:food": {
+        "can_always_eat": false,
+        "nutrition": 5,
+        "using_converts_to": "bowl",
+        "saturation_modifier": 0.6
+      },
+      "minecraft:icon": {
+        "textures": {
+          "default": "fastfooddelight:apple_sauce"
+        }
+      },
+      "minecraft:use_animation": "eat",
+      "minecraft:use_modifiers": {
+        "use_duration": 1.6,
+        "movement_modifier": 0.4
+      }
+    },
+    "description": {
+      "identifier": "fastfooddelight:apple_sauce",
+      "menu_category": {
+        "category": "equipment",
+        "group": "farmersdelight:itemGroup.name.miscFood"
+      }
+    }
+  }
+}

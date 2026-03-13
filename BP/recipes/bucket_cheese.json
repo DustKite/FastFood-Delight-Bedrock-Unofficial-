@@ -1,0 +1,29 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "fastfooddelight:bucket_cheese"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "A"
+    ],
+    "key": {
+      "A": {
+        "item": "fastfooddelight:bucket_cheese"
+      }
+    },
+    "result": [
+    {
+      "item": "fastfooddelight:cheese",
+      "count": 8
+    },
+    {
+      "item": "minecraft:bucket",
+      "count": 1
+    }
+   ]
+  }
+}

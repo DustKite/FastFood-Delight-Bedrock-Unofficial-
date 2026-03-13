@@ -1,0 +1,30 @@
+{
+  "format_version": "1.21.40",
+  "minecraft:item": {
+    "components": {
+      "minecraft:food": {
+        "can_always_eat": false,
+        "nutrition": 5,
+        "using_converts_to": "fastfooddelight:fries_bowl",
+        "saturation_modifier": 0.6
+      },
+      "minecraft:icon": {
+        "textures": {
+          "default": "fastfooddelight:carrot_fries"
+        }
+      },
+      "minecraft:use_animation": "eat",
+      "minecraft:use_modifiers": {
+        "use_duration": 1.6,
+        "movement_modifier": 0.4
+      }
+    },
+    "description": {
+      "identifier": "fastfooddelight:carrot_fries",
+      "menu_category": {
+        "category": "equipment",
+        "group": "farmersdelight:itemGroup.name.miscFood"
+      }
+    }
+  }
+}

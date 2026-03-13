@@ -1,0 +1,483 @@
+{
+  "tiers": [
+    {
+      "groups": [
+        {
+          "num_to_select": 2,
+          "trades": [
+            {
+              "max_uses": 4,
+              "wants": [
+                {
+                  "item": "minecraft:gold_nugget",
+                  "quantity": 3
+                }
+              ],
+              "gives": [
+                {
+                  "item": "fastfooddelight:french_fries"
+                }
+              ]
+            },
+            {
+              "max_uses": 4,
+              "wants": [
+                {
+                  "item": "minecraft:gold_nugget",
+                  "quantity": 3
+                }
+              ],
+              "gives": [
+                {
+                  "item": "fastfooddelight:beet_fries"
+                }
+              ]
+            },
+            {
+              "max_uses": 4,
+              "wants": [
+                {
+                  "item": "minecraft:gold_nugget",
+                  "quantity": 3
+                }
+              ],
+              "gives": [
+                {
+                  "item": "fastfooddelight:carrot_fries"
+                }
+              ]
+            },
+            {
+              "max_uses": 4,
+              "wants": [
+                {
+                  "item": "minecraft:gold_nugget",
+                  "quantity": 3
+                }
+              ],
+              "gives": [
+                {
+                  "item": "farmersdelight:mixed_salad"
+                }
+              ]
+            },
+            {
+              "max_uses": 4,
+              "wants": [
+                {
+                  "item": "minecraft:gold_nugget",
+                  "quantity": 3
+                }
+              ],
+              "gives": [
+                {
+                  "item": "fastfooddelight:fried_onions"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groups": [
+        {
+          "num_to_select": 2,
+          "trades": [
+            {
+              "max_uses": 4,
+              "wants": [
+                {
+                  "item": "minecraft:gold_nugget",
+                  "quantity": 4
+                }
+              ],
+              "gives": [
+                {
+                  "item": "fastfooddelight:cod_sandwich"
+                }
+              ]
+            },
+            {
+              "max_uses": 4,
+              "wants": [
+                {
+                  "item": "minecraft:gold_nugget",
+                  "quantity": 4
+                }
+              ],
+              "gives": [
+                {
+                  "item": "fastfooddelight:salmon_sandwich"
+                }
+              ]
+            },
+            {
+              "max_uses": 4,
+              "wants": [
+                {
+                  "item": "minecraft:gold_nugget",
+                  "quantity": 5
+                }
+              ],
+              "gives": [
+                {
+                  "item": "fastfooddelight:cheese_wrap"
+                }
+              ]
+            },
+            {
+              "max_uses": 4,
+              "wants": [
+                {
+                  "item": "minecraft:gold_nugget",
+                  "quantity": 5
+                }
+              ],
+              "gives": [
+                {
+                  "item": "fastfooddelight:chicken_wrap"
+                }
+              ]
+            },
+            {
+              "max_uses": 4,
+              "wants": [
+                {
+                  "item": "minecraft:gold_nugget",
+                  "quantity": 5
+                }
+              ],
+              "gives": [
+                {
+                  "item": "farmersdelight:mutton_wrap"
+                }
+              ]
+            },
+            {
+              "max_uses": 4,
+              "wants": [
+                {
+                  "item": "minecraft:gold_nugget",
+                  "quantity": 5
+                }
+              ],
+              "gives": [
+                {
+                  "item": "fastfooddelight:rabbit_sandwich"
+                }
+              ]
+            },
+            {
+              "max_uses": 4,
+              "wants": [
+                {
+                  "item": "minecraft:gold_nugget",
+                  "quantity": 5
+                }
+              ],
+              "gives": [
+                {
+                  "item": "farmersdelight:egg_sandwich"
+                }
+              ]
+            },
+            {
+              "max_uses": 4,
+              "wants": [
+                {
+                  "item": "minecraft:gold_nugget",
+                  "quantity": 5
+                }
+              ],
+              "gives": [
+                {
+                  "item": "farmersdelight:chicken_sandwich"
+                }
+              ]
+            },
+            {
+              "max_uses": 4,
+              "wants": [
+                {
+                  "item": "minecraft:gold_nugget",
+                  "quantity": 5
+                }
+              ],
+              "gives": [
+                {
+                  "item": "farmersdelight:bacon_sandwich"
+                }
+              ]
+            },
+            {
+              "max_uses": 4,
+              "wants": [
+                {
+                  "item": "minecraft:gold_nugget",
+                  "quantity": 3
+                }
+              ],
+              "gives": [
+                {
+                  "item": "fastfooddelight:chicken_nuggets"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groups": [
+        {
+          "num_to_select": 2,
+          "trades": [
+            {
+              "max_uses": 4,
+              "wants": [
+                {
+                  "item": "minecraft:gold_nugget",
+                  "quantity": 6
+                }
+              ],
+              "gives": [
+                {
+                  "item": "fastfooddelight:pork_sandwich"
+                }
+              ]
+            },
+            {
+              "max_uses": 4,
+              "wants": [
+                {
+                  "item": "minecraft:gold_nugget",
+                  "quantity": 7
+                }
+              ],
+              "gives": [
+                {
+                  "item": "fastfooddelight:cheeseburger"
+                }
+              ]
+            },
+            {
+              "max_uses": 4,
+              "wants": [
+                {
+                  "item": "minecraft:gold_nugget",
+                  "quantity": 7
+                }
+              ],
+              "gives": [
+                {
+                  "item": "farmersdelight:hamburger"
+                }
+              ]
+            },
+            {
+              "max_uses": 4,
+              "wants": [
+                {
+                  "item": "minecraft:gold_nugget",
+                  "quantity": 7
+                }
+              ],
+              "gives": [
+                {
+                  "item": "fastfooddelight:chicken_cheese_sandwich"
+                }
+              ]
+            },
+            {
+              "max_uses": 4,
+              "wants": [
+                {
+                  "item": "minecraft:gold_nugget",
+                  "quantity": 6
+                }
+              ],
+              "gives": [
+                {
+                  "item": "fastfooddelight:croque_monsieur"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groups": [
+        {
+          "num_to_select": 2,
+          "trades": [
+            {
+              "max_uses": 4,
+              "wants": [
+                {
+                  "item": "minecraft:gold_nugget",
+                  "quantity": 2
+                }
+              ],
+              "gives": [
+                {
+                  "item": "fastfooddelight:cola_soda"
+                }
+              ]
+            },
+            {
+              "max_uses": 4,
+              "wants": [
+                {
+                  "item": "minecraft:gold_nugget",
+                  "quantity": 2
+                }
+              ],
+              "gives": [
+                {
+                  "item": "fastfooddelight:orange_soda"
+                }
+              ]
+            },
+            {
+              "max_uses": 4,
+              "wants": [
+                {
+                  "item": "minecraft:gold_nugget",
+                  "quantity": 2
+                }
+              ],
+              "gives": [
+                {
+                  "item": "fastfooddelight:lemon_soda"
+                }
+              ]
+            },
+            {
+              "max_uses": 4,
+              "wants": [
+                {
+                  "item": "minecraft:gold_nugget",
+                  "quantity": 2
+                }
+              ],
+              "gives": [
+                {
+                  "item": "fastfooddelight:creaming_soda"
+                }
+              ]
+            },
+            {
+              "max_uses": 4,
+              "wants": [
+                {
+                  "item": "minecraft:gold_nugget",
+                  "quantity": 2
+                }
+              ],
+              "gives": [
+                {
+                  "item": "fastfooddelight:iced_tea"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groups": [
+        {
+          "num_to_select": 2,
+          "trades": [
+            {
+              "max_uses": 4,
+              "wants": [
+                {
+                  "item": "minecraft:gold_nugget",
+                  "quantity": 3
+                }
+              ],
+              "gives": [
+                {
+                  "item": "fastfooddelight:ice_cream"
+                }
+              ]
+            },
+            {
+              "max_uses": 4,
+              "wants": [
+                {
+                  "item": "minecraft:gold_nugget",
+                  "quantity": 4
+                }
+              ],
+              "gives": [
+                {
+                  "item": "fastfooddelight:chocolate_ice_cream"
+                }
+              ]
+            },
+            {
+              "max_uses": 4,
+              "wants": [
+                {
+                  "item": "minecraft:gold_nugget",
+                  "quantity": 4
+                }
+              ],
+              "gives": [
+                {
+                  "item": "fastfooddelight:sweet_berry_ice_cream"
+                }
+              ]
+            },
+            {
+              "max_uses": 4,
+              "wants": [
+                {
+                  "item": "minecraft:gold_nugget",
+                  "quantity": 4
+                }
+              ],
+              "gives": [
+                {
+                  "item": "fastfooddelight:fruit_ice_cream"
+                }
+              ]
+            },
+            {
+              "max_uses": 4,
+              "wants": [
+                {
+                  "item": "minecraft:gold_nugget",
+                  "quantity": 3
+                }
+              ],
+              "gives": [
+                {
+                  "item": "fastfooddelight:apple_sauce"
+                }
+              ]
+            },
+            {
+              "max_uses": 4,
+              "wants": [
+                {
+                  "item": "minecraft:gold_nugget",
+                  "quantity": 3
+                }
+              ],
+              "gives": [
+                {
+                  "item": "farmersdelight:fruit_salad"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

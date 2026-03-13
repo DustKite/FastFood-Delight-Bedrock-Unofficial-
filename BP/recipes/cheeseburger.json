@@ -1,0 +1,34 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "fastfooddelight:cheeseburger"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:bread"
+      },
+      {
+        "tag": "farmersdelight:cheese_slices"
+      },
+      {
+        "tag": "farmersdelight:is_cabbage"
+      },
+      {
+        "tag": "farmersdelight:is_tomato"
+      },
+      {
+        "item": "farmersdelight:beef_patty"
+      },
+      {
+        "tag": "farmersdelight:is_onion"
+      }
+    ],
+    "result": {
+      "item": "fastfooddelight:cheeseburger"
+    }
+  }
+}

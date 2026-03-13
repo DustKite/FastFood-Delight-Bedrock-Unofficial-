@@ -1,0 +1,2 @@
+scriptevent farmersdelight:cook {"id":"farmersdelight:cooked_chicken_cuts","result":"fastfooddelight:chicken_nuggets","time":200,"exp":0.35}
+scoreboard objectives remove farmersdelight_fastfooddelight_cook

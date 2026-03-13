@@ -1,0 +1,163 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "fastfooddelight:french_fries",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "fastfooddelight:carrot_fries",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "fastfooddelight:fried_onions",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "fastfooddelight:cod_sandwich",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "fastfooddelight:salmon_sandwich",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "fastfooddelight:cheese_wrap",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "fastfooddelight:chicken_wrap",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "fastfooddelight:rabbit_sandwich",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "fastfooddelight:chicken_nuggets",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "fastfooddelight:pork_sandwich",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "fastfooddelight:cheeseburger",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "fastfooddelight:chicken_cheese_sandwich",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "fastfooddelight:croque_monsieur",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "fastfooddelight:cola_soda",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "fastfooddelight:orange_soda",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "fastfooddelight:lemon_soda",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "fastfooddelight:creaming_soda",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "fastfooddelight:iced_tea",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "fastfooddelight:ice_cream",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "fastfooddelight:chocolate_ice_cream",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "fastfooddelight:sweet_berry_ice_cream",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "fastfooddelight:fruit_ice_cream",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "fastfooddelight:apple_sauce",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "farmersdelight:mixed_salad",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "farmersdelight:mutton_wrap",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "farmersdelight:egg_sandwich",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "farmersdelight:chicken_sandwich",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "farmersdelight:bacon_sandwich",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "farmersdelight:hamburger",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "farmersdelight:fruit_salad",
+          "weight": 1
+        },
+        {
+          "type": "empty",
+          "weight": 13
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:spawn_rules": {
+    "description": {
+      "identifier": "fastfooddelight:fast_food_waiter",
+      "population_control": "animal"
+    },
+    "conditions": [
+      {
+        "minecraft:spawns_on_surface": {},
+        "minecraft:brightness_filter": {
+          "min": 7.0,
+          "max": 15.0,
+          "adjust_for_weather": true
+        },
+        "minecraft:weight": {
+          "default": 20
+        },
+        "minecraft:herd": {
+          "min_size": 1,
+          "max_size": 1
+        },
+        "minecraft:density_limit": {
+          "surface": 1
+        },
+        "minecraft:delay_filter": {
+          "identifier": "fastfooddelight:fast_food_waiter",
+          "min": 1500,
+          "max": 1500
+        },
+        "minecraft:biome_filter": [
+          {
+            "any_of": [
+              {
+                "test": "has_biome_tag",
+                "operator": "==",
+                "value": "overworld"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

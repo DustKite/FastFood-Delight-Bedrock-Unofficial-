@@ -1,0 +1,49 @@
+pack.description=For1.26.0+, Please place it above the main package to load. This addon is ported based on the original Java Edition mod FastFood Delight and this work is licensed under the MIT License.
+pack.name=FastFood Delight
+
+tile.fastfooddelight:checkout_machine.name=Checkout Machine\nSneak and right-click to assign the FastFood profession to a villager, which cannot be undone.
+
+item.fastfooddelight:fries_bowl=Fries Bowl
+item.fastfooddelight:cheese=Cheese
+
+item.fastfooddelight:french_fries=French Fries
+item.fastfooddelight:carrot_fries=Carrot Fries
+item.fastfooddelight:fried_onions=Fried Onions
+item.fastfooddelight:beet_fries=Beet Fries
+
+item.fastfooddelight:cod_sandwich=Cod Sandwich
+item.fastfooddelight:salmon_sandwich=Salmon Sandwich
+item.fastfooddelight:pork_sandwich=Pork Sandwich
+item.fastfooddelight:cheeseburger=Cheeseburger
+item.fastfooddelight:chicken_cheese_sandwich=Chicken Cheese Sandwich
+item.fastfooddelight:croque_monsieur=Croque Monsieur
+item.fastfooddelight:rabbit_sandwich=Rabbit Sandwich
+item.fastfooddelight:cheese_wrap=Cheese Wrap
+item.fastfooddelight:chicken_wrap=Chicken Wrap
+item.fastfooddelight:chicken_nuggets=Chicken Nuggets
+item.fastfooddelight:bucket_cheese=Cheese buckets
+
+
+item.fastfooddelight:ice_cream=Ice Cream
+item.fastfooddelight:chocolate_ice_cream=Chocolate Ice Cream
+item.fastfooddelight:sweet_berry_ice_cream=Sweet Berry Ice Cream
+item.fastfooddelight:fruit_ice_cream=Fruit Ice Cream
+item.fastfooddelight:apple_sauce=Apple Sauce
+
+item.fastfooddelight.cola_soda=Cola Soda
+item.fastfooddelight.orange_soda=Orange Soda
+item.fastfooddelight.lemon_soda=Lemon Soda
+item.fastfooddelight.creaming_soda=Creaming Soda
+item.fastfooddelight.iced_tea=Iced Tea
+
+translation.key.cola_sodadescription=§9Regeneration (00:15)
+translation.key.creaming_sodadescription=§9Regeneration (00:15)
+translation.key.iced_teadescription=§9Regeneration (00:15)
+translation.key.lemon_sodadescription=§9Regeneration (00:15)
+translation.key.orange_sodadescription=§9Regeneration (00:15)
+
+itemGroup.fastfooddelight:main.name=FastFood Delight
+fastfooddelight:itemGroup.name.fastfooddelight=FastFood Delight-Other
+
+item.spawn_egg.entity.fastfooddelight:fast_food_waiter.name=FastFood Waiter Spawn Egg
+entity.fastfooddelight:fast_food_waiter.name=FastFood Waiter
