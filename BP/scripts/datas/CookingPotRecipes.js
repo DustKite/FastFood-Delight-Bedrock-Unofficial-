@@ -1,4 +1,4 @@
-const cookingPotRecipes = [
+const CookingPotRecipes = [
     {
         "identifer": "fastfooddelight:apple_sauce",
         "type": 'farmersdelight:cooking',
@@ -22,6 +22,7 @@ const cookingPotRecipes = [
         "priority": 0,
         "experience": 1.5,
         "ingredients": [
+            { "item": 'minecraft:potato' },
             { "item": 'minecraft:potato' }
         ],
         "result": { "item": 'fastfooddelight:french_fries' }
@@ -45,6 +46,7 @@ const cookingPotRecipes = [
         "priority": 0,
         "experience": 1.5,
         "ingredients": [
+            { "item": 'minecraft:beetroot' },
             { "item": 'minecraft:beetroot' }
         ],
         "result": { "item": 'fastfooddelight:beet_fries' }
@@ -57,6 +59,7 @@ const cookingPotRecipes = [
         "priority": 0,
         "experience": 1.5,
         "ingredients": [
+            { "item": 'farmersdelight:onion' },
             { "item": 'farmersdelight:onion' }
         ],
         "result": { "item": 'fastfooddelight:fried_onions' }
@@ -69,10 +72,11 @@ const cookingPotRecipes = [
         "priority": 0,
         "experience": 1.5,
         "ingredients": [
+            { "item": 'minecraft:carrot' },
             { "item": 'minecraft:carrot' }
         ],
         "result": { "item": 'fastfooddelight:carrot_fries' }
     }
 ];
 
-export { cookingPotRecipes };
+export { CookingPotRecipes };
