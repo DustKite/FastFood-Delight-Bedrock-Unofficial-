@@ -5,7 +5,7 @@
             "identifier": "fastfooddelight:checkout_machine",
             "menu_category": {
                 "category": "items",
-                "group": "fastfooddelight:itemGroup.name.fastfooddelight"
+                "group": "farmersdelight:itemGroup.name.furniture"
             },
             "traits": {
                 "minecraft:placement_direction": {
@@ -72,7 +72,7 @@
             },
             "minecraft:material_instances": {
                 "*": {
-                    "texture": "checkout_machine"
+                    "texture": "fastfooddelight:checkout_machine"
                 }
             },
             "minecraft:collision_box": {

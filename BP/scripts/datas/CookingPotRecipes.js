@@ -36,7 +36,7 @@ const CookingPotRecipes = [
         "ingredients": [
             { "item": 'minecraft:milk_bucket' }
         ],
-        "result": { "item": 'fastfooddelight:bucket_cheese' }
+        "result": { "item": 'fastfooddelight:cheese', 'count': 8 }
     },
     {
         "identifer": "fastfooddelight:beet_fries",

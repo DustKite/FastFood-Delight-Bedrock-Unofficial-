@@ -21,7 +21,6 @@ item.fastfooddelight:rabbit_sandwich=兔肉三明治
 item.fastfooddelight:cheese_wrap=芝士卷
 item.fastfooddelight:chicken_wrap=鸡肉卷
 item.fastfooddelight:chicken_nuggets=鸡块
-item.fastfooddelight:bucket_cheese=芝士桶
 
 item.fastfooddelight:ice_cream=冰淇淋
 item.fastfooddelight:chocolate_ice_cream=巧克力冰淇淋
@@ -40,9 +39,6 @@ translation.key.creaming_sodadescription=§9生命恢复（00:15）
 translation.key.iced_teadescription=§9生命恢复（00:15）
 translation.key.lemon_sodadescription=§9生命恢复（00:15）
 translation.key.orange_sodadescription=§9生命恢复（00:15）
-
-itemGroup.fastfooddelight:main.name=快餐乐事
-fastfooddelight:itemGroup.name.fastfooddelight=快餐乐事-其他
 
 item.spawn_egg.entity.fastfooddelight:fast_food_waiter.name=快餐服务员刷怪蛋
 entity.fastfooddelight:fast_food_waiter.name=快餐服务员

@@ -25,14 +25,14 @@
                                 "$cell2": "textures/items/sugar",
                                 "$cell3": "textures/items/sugar",
                                 "$container": "textures/items/bowl",
-                                "$result": "textures/items/apple_sauce"
+                                "$result": "textures/items/fastfooddelight/apple_sauce"
                             }
                         }
                     ]
                 }
             },
             {
-                "bucket_cheese@cooking_pot.cooking_pot_recipe": {
+                "cheese@cooking_pot.cooking_pot_recipe": {
                     "texture": "textures/gui/recipe/cooking_recipe",
                     "offset": [
                         -37.5,
@@ -45,8 +45,51 @@
                     "controls": [
                         {
                             "cooking_pot_recipe_cell@cooking_pot.cooking_pot_recipe_cell": {
-                                "$cell0": "textures/items/bucket_milk",
-                                "$result": "textures/items/bucket_cheese"
+                                "controls": [
+                                    {
+                                        "cell0": {
+                                            "type": "image",
+                                            "offset": [
+                                                -23,
+                                                -7
+                                            ],
+                                            "size": [
+                                                7.5,
+                                                7.5
+                                            ],
+                                            "texture": "textures/items/bucket_milk"
+                                        }
+                                    },
+                                    {
+                                        "result": {
+                                            "offset": [
+                                                21,
+                                                -5.25
+                                            ],
+                                            "size": [
+                                                7.5,
+                                                7.5
+                                            ],
+                                            "type": "image",
+                                            "texture": "textures/items/fastfooddelight/cheese"
+                                        }
+                                    },
+                                    {
+                                        "count": {
+                                            "type": "label",
+                                            "text": "8",
+                                            "font_scale_factor": 0.5,
+                                            "size": [
+                                                15,
+                                                15
+                                            ],
+                                            "offset": [
+                                                31,
+                                                2
+                                            ]
+                                        }
+                                    }
+                                ]
                             }
                         }
                     ]
@@ -89,8 +132,8 @@
                             "cooking_pot_recipe_cell@cooking_pot.cooking_pot_recipe_cell": {
                                 "$cell0": "textures/items/carrot",
                                 "$cell1": "textures/items/carrot",
-                                "$container": "textures/items/fries_bowl",
-                                "$result": "textures/items/carrot_fries"
+                                "$container": "textures/items/fastfooddelight/fries_bowl",
+                                "$result": "textures/items/fastfooddelight/carrot_fries"
                             }
                         }
                     ]
@@ -112,8 +155,8 @@
                             "cooking_pot_recipe_cell@cooking_pot.cooking_pot_recipe_cell": {
                                 "$cell0": "textures/items/potato",
                                 "$cell1": "textures/items/potato",
-                                "$container": "textures/items/fries_bowl",
-                                "$result": "textures/items/french_fries"
+                                "$container": "textures/items/fastfooddelight/fries_bowl",
+                                "$result": "textures/items/fastfooddelight/french_fries"
                             }
                         }
                     ]
@@ -156,8 +199,8 @@
                             "cooking_pot_recipe_cell@cooking_pot.cooking_pot_recipe_cell": {
                                 "$cell0": "textures/items/beetroot",
                                 "$cell1": "textures/items/beetroot",
-                                "$container": "textures/items/fries_bowl",
-                                "$result": "textures/items/beet_fries"
+                                "$container": "textures/items/fastfooddelight/fries_bowl",
+                                "$result": "textures/items/fastfooddelight/beet_fries"
                             }
                         }
                     ]
@@ -179,8 +222,8 @@
                             "cooking_pot_recipe_cell@cooking_pot.cooking_pot_recipe_cell": {
                                 "$cell0": "textures/items/onion",
                                 "$cell1": "textures/items/onion",
-                                "$container": "textures/items/fries_bowl",
-                                "$result": "textures/items/fried_onions"
+                                "$container": "textures/items/fastfooddelight/fries_bowl",
+                                "$result": "textures/items/fastfooddelight/fried_onions"
                             }
                         }
                     ]

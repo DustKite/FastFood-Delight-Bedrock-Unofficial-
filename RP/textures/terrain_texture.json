@@ -1,7 +1,7 @@
 {
-    "texture_data": {
-      "checkout_machine": {
-        "textures": "textures/blocks/checkout_machine"
-      }
+  "texture_data": {
+    "fastfooddelight:checkout_machine": {
+      "textures": "textures/blocks/fastfooddelight/checkout_machine"
     }
   }
+}

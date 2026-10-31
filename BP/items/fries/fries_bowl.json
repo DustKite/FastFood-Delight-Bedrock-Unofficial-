@@ -12,7 +12,7 @@
       "identifier": "fastfooddelight:fries_bowl",
       "menu_category": {
         "category": "items",
-        "group": "fastfooddelight:itemGroup.name.fastfooddelight"
+        "group": "farmersdelight:itemGroup.name.miscItem"
       }
     }
   }

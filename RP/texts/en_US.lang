@@ -21,7 +21,6 @@ item.fastfooddelight:rabbit_sandwich=Rabbit Sandwich
 item.fastfooddelight:cheese_wrap=Cheese Wrap
 item.fastfooddelight:chicken_wrap=Chicken Wrap
 item.fastfooddelight:chicken_nuggets=Chicken Nuggets
-item.fastfooddelight:bucket_cheese=Cheese buckets
 
 
 item.fastfooddelight:ice_cream=Ice Cream
@@ -41,9 +40,6 @@ translation.key.creaming_sodadescription=§9Regeneration (00:15)
 translation.key.iced_teadescription=§9Regeneration (00:15)
 translation.key.lemon_sodadescription=§9Regeneration (00:15)
 translation.key.orange_sodadescription=§9Regeneration (00:15)
-
-itemGroup.fastfooddelight:main.name=FastFood Delight
-fastfooddelight:itemGroup.name.fastfooddelight=FastFood Delight-Other
 
 item.spawn_egg.entity.fastfooddelight:fast_food_waiter.name=FastFood Waiter Spawn Egg
 entity.fastfooddelight:fast_food_waiter.name=FastFood Waiter
